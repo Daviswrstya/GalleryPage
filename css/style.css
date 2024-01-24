@@ -1,0 +1,28 @@
+img{
+    max-width: 100%;
+}
+.gallery{
+    background-color:#DCDCDC;
+    padding: 80px 0;
+
+}
+.gallery img{
+    background-color: #FFFF;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+    #gallery-modal .modal-img{
+        width: 100%;
+        height: 100%;
+    }
+    .container-lg h1{
+        font-size: 40px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: normal;
+        padding:15px;
+        color:#333;
+        margin-bottom: 20px;
+    }
+    
